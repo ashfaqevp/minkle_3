@@ -41,7 +41,7 @@
             android:id="@+id/dobSP"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Date of Birth"
+            android:hint="DD/MM/YYYY"
             android:inputType="date"
             android:layout_margin="8dp"
             android:background="@drawable/text_box"
